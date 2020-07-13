@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PhytonEngine", "PhytonEngine\PhytonEngine.pyproj", "{5DCA8B44-3269-42BE-A256-7C60DC1FADA9}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonEngine", "PythonEngine\PythonEngine.pyproj", "{C8A64F38-8C62-4E07-BA36-56235C19F85E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5DCA8B44-3269-42BE-A256-7C60DC1FADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DCA8B44-3269-42BE-A256-7C60DC1FADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A64F38-8C62-4E07-BA36-56235C19F85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A64F38-8C62-4E07-BA36-56235C19F85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {38CA6A70-EBC6-40AA-A57B-4D2DCDF4BE65}
+		SolutionGuid = {BA14ADE5-8593-4AF1-A2FB-385A2BFEC22F}
 	EndGlobalSection
 EndGlobal

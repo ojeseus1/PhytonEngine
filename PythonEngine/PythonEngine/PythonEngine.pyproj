@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>5dca8b44-3269-42be-a256-7c60dc1fada9</ProjectGuid>
+    <ProjectGuid>c8a64f38-8c62-4e07-ba36-56235c19f85e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PhytonEngine.py</StartupFile>
+    <StartupFile>PythonEngine.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PhytonEngine</Name>
-    <RootNamespace>PhytonEngine</RootNamespace>
+    <Name>PythonEngine</Name>
+    <RootNamespace>PythonEngine</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PhytonEngine.py" />
+    <Compile Include="PythonEngine.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
